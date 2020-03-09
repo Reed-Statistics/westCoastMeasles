@@ -1,0 +1,25 @@
+Package: westCoastMeasles
+Title: Measles Vaccination Rates in Schools on the West Coast
+Version: 0.0.0.9000
+Authors@R:c(person(given = "Isabelle",
+           family = "Caldwell",
+           role = c("aut", "cre"), 
+           email = "isacaldw@reed.edu"), 
+    person(given = "Jillian",
+           family = "James",
+           role = c("aut")),
+     person(given = "Lori",
+           family = "Chiara Der Sahakian",
+           role = c("aut")) ) 
+Description: A data set of the vaccination rates for measles on the west coast.
+  States included are Washington, Oregon, and Califronia. 
+  The data was collected by the Wall Street Journal, either in the 2017-2018 & 2018-2019 school years. 
+  The data was individually reported by the elementary schools. 
+License: CC0
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/Reed-Statistics/westCoastMeasles
+BugReports: https://github.com/Reed-Statistics/westCoastMeasles/issues
+RoxygenNote: 7.0.2
+Depends: R (>= 2.10)
+
